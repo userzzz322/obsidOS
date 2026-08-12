@@ -6,5 +6,15 @@ i write and if something go wrong or i dont how to make it i use AI
 
 (there is no dmos files at release)
 
+for usage you need:
+
+shell
+vim
+git
+base-devel
+cmake
+python
+
+hope u enjoy it :0
 thanks :)
 (Arch linux)
